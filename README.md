@@ -13,7 +13,7 @@ Tất cả các tính năng này giúp tăng tốc độ tải trang và cải t
 ## Cách cài đặt
 
 1. Cài đặt [Tampermonkey](https://www.tampermonkey.net/) hoặc [Greasemonkey](https://www.greasespot.net/) vào trình duyệt của bạn.
-2. Tạo một userscript mới trong Tampermonkey và dán mã của script này vào, hoặc sử dụng công cụ tích hợp sẵn để nhập file `.userscript.js`.
+2. Tạo một userscript mới trong Tampermonkey và dán mã của script này vào, hoặc sử dụng công cụ tích hợp sẵn để nhập file `.user.js`.
 3. Lưu lại và refresh lại trang web để bắt đầu sử dụng.
 
 ## Cải tiến hiệu suất
