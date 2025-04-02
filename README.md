@@ -26,6 +26,3 @@ Nhờ đó, việc tải trang và truy cập tài nguyên sẽ nhanh hơn, mang
 ## Lưu ý
 - Đảm bảo rằng Tampermonkey hoặc Greasemonkey đã được cài đặt và kích hoạt đúng cách trong trình duyệt.
 - Script có thể không hoạt động chính xác trên một số trang web nếu chúng có cơ chế chặn hoặc hạn chế kết nối ngoài.
-
-## Giấy phép
-Script này được phát hành theo Giấy phép [MIT](https://opensource.org/licenses/MIT).
